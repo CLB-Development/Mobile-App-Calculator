@@ -1,0 +1,13 @@
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\CalculatorApp.deps.json
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\CalculatorApp.dll
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\ref\CalculatorApp.dll
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\bin\Debug\netstandard2.0\CalculatorApp.pdb
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.dll
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\ref\CalculatorApp.dll
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.pdb
+C:\Users\campb\Source\Repos\CalculatorApp\CalculatorApp\obj\Debug\netstandard2.0\CalculatorApp.csprojAssemblyReference.cache
